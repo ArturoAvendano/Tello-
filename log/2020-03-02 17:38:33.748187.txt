@@ -1,0 +1,14 @@
+
+id: 0
+command: takeoff
+response: ok
+start time: 2020-03-02 17:38:33.748484
+end_time: 2020-03-02 17:38:42.322487
+duration: 8.574003
+
+id: 1
+command: land
+response: ok
+start time: 2020-03-02 17:38:43.761811
+end_time: 2020-03-02 17:38:47.446403
+duration: 3.684592
